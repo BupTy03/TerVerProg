@@ -24,6 +24,12 @@ private slots:
 
     void on_getAnsBerF_clicked();
 
+    void on_getAnsLocalM_L_clicked();
+
+    void on_getAnsIntM_L_clicked();
+
+    void on_getAnsPuasson_clicked();
+
 private:
     Ui::MainWindow *ui;
 };
